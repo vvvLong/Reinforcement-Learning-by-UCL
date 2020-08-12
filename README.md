@@ -1,2 +1,2 @@
 # Reinforcement-Learning-by-UCL
-A repository for UCL Reinforcement Learning course
+A repository for homeworks of UCL Reinforcement Learning course
